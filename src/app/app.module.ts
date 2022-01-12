@@ -9,6 +9,7 @@ import { PostComponent } from './components/posts/post/post.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MaterialModule } from './material.module';
 
+
 @NgModule({
   declarations: [
     AppComponent,
